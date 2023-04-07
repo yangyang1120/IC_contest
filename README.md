@@ -15,16 +15,16 @@
 - [] 2021 Geofence
 	![Report](https://img.shields.io/badge/area-74464-red.svg)
 - [x] 2022 Job Assignment Machine
-	![Report](https://img.shields.io/badge/area-7105-red.svg) ![Report](https://img.shields.io/badge/cycle-3628765-green.svg) 
+	![Report](https://img.shields.io/badge/area-7105-red.svg) ![Report](https://img.shields.io/badge/cycle-3628765-blue.svg) 
 ## undergraduate level:
-- [x] 2018 Image Display Control
+- [] 2018 Image Display Control
 	![Report](https://img.shields.io/badge/area-152156-red.svg)
-- [x] 2019 Image Convolution Circuit Design
+- [] 2019 Image Convolution Circuit Design
 	![Report](https://img.shields.io/badge/area-26248-red.svg)
 - [ ] 2020 String Matching Engine
-- [x] 2021 Geofence
+- [] 2021 Geofence
 	![Report](https://img.shields.io/badge/area-21901-red.svg)
-- [x] 2022 Job Assignment Machine
+- [] 2022 Job Assignment Machine
 	![Report](https://img.shields.io/badge/area-7648-red.svg)
 	
  

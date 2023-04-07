@@ -24,7 +24,8 @@
 - [ ] 2020 String Matching Engine
 - [] 2021 Geofence
 	![Report](https://img.shields.io/badge/area-21901-red.svg)
-- [] 2022 Job Assignment Machine
-	![Report](https://img.shields.io/badge/area-7648-red.svg)
+- [x] 2022 Job Assignment Machine
+	![Report](https://img.shields.io/badge/area-7219-red.svg)![Report](https://img.shields.io/badge/cycle-4032065-blue.svg) 
+	
 	
  

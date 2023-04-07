@@ -1,0 +1,10 @@
+alias	alias.c_state
+  STATE_IDLE		0		NULL
+  STATE_IN		1		NULL
+  STATE_OUT		2		NULL
+  STATE_FIN		3		NULL
+endalias
+
+alias	alias_tab_1
+endalias
+
